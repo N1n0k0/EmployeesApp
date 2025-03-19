@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Software Developer"
+    },
+    {
+        "id": 2,
+        "name": "Marketing Manager"
+    },
+    {
+        "id": 3,
+        "name": "HR Specialist"
+    },
+    {
+        "id": 4,
+        "name": "Sales Representative"
+    },
+    {
+        "id": 5,
+        "name": "Financial Analyst"
+    },
+    {
+        "id": 6,
+        "name": "System Administrator"
+    },
+    {
+        "id": 7,
+        "name": "Support Technician"
+    },
+    {
+        "id": 8,
+        "name": "Product Manager"
+    },
+    {
+        "id": 9,
+        "name": "Legal Advisor"
+    },
+    {
+        "id": 10,
+        "name": "Research Scientist"
+    }
+]
